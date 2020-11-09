@@ -1,7 +1,9 @@
 import java.util.Scanner;
-public class Calcu {
+public class BasicInfo
+{
 
-	public static void main(String[] args) {
+	public static void main(String[] args)
+	{
 		Scanner input = new Scanner(System.in);
 		//Last Name
 		System.out.println("Enter Last Name:");
